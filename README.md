@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/celiaXH/Chelseahuang/blob/main/github_banner.png)
+![I am GitHub Readme Generator's creator](https://https://github.com/celiaXH/celiaXH/blob/main/profile_banner.jpg)
 <h1 align="center">Hi there👋,I'm Chelsea Huang</h1>
 <h3 align="center">A passionate data analyst</h3>
 
