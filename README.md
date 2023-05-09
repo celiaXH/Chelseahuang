@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://github.com/celiaXH/celiaXH/blob/main/profile_banner.jpg)
 <h1 align="center">Hi there👋,I'm Chelsea Huang</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center"> Passionate about data </h3>
 
 <p align="left">
 </p>
